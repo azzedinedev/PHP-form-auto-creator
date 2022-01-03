@@ -138,7 +138,7 @@ class form
 		$this->connection			= NULL;
 
 		$this->_self				= $_SERVER['PHP_SELF'];
-                $this->database = new db();
+        $this->database = new db();
                 
 		$this->path_calendar_page 		= dirname(__FILE__)."/calandar/";
 		$this->path_calendar_page_image 	= $this->path_calendar_page.'images/calendar.png';
@@ -147,7 +147,7 @@ class form
 		$this->form_title_tag 			= 'h1';
 		$this->form_title			= "";
 		$this->form_title_adds			= "";
-                $this->is_utf8encode                    = false;
+        $this->is_utf8encode                    = false;
 		$this->css_general_remarque_error	= 'class = "formfails"'; 
 		$this->css_form_remarque_error		= 'class = "messageAlerte"'; //'class = "form_remarque_error"';
 		$this->css_form_remarque_sucess		= 'class = "form_remarque_sucess"';		

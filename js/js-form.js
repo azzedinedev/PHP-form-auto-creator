@@ -2,7 +2,7 @@
  * This file is JavaScript functions of form class
  * @name js-form.php
  * @author SARIRETE Azzeddine
- * @copyright sarweb@gmail.com - 12 SEP 2011
+ * @copyright azzedinedev@gmail.com - 12 SEP 2011
  * @access Private
  * @license free
  * @version 1.0
